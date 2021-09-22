@@ -27,7 +27,7 @@ h2 {
   align-items: space-between;
   justify-content: center;
   margin: 0 auto;
-  max-width: 1200px;
+  max-width: 75rem;
 }
 
 .pokemon {
@@ -70,7 +70,7 @@ h2 {
 .pokemon .name{
   margin: 15px 0 7px;
   letter-spacing: 1px;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   color: rgb(238, 236, 236);
 }
 
